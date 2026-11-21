@@ -1,0 +1,6 @@
+{
+  "name": "Virtual Smart Hydro Alert Network",
+  "description": "Real-Time Water Monitoring and Alert System Using MQTT — a completely virtual Computer Networks platform featuring an embedded TCP MQTT broker, independent virtual sensor clients, QoS 0/1/2 laboratory, network failure simulator, live topology, and real-time analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
