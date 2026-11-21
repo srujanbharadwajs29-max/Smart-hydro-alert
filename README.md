@@ -87,3 +87,10 @@ docker stop hydro-mosquitto; docker rm hydro-mosquitto
 - [docs/WIRESHARK_GUIDE.md](docs/WIRESHARK_GUIDE.md) — Step-by-step Windows loopback packet capture & verified display filters
 - [docs/PROJECT_PRESENTATION.md](docs/PROJECT_PRESENTATION.md) — Academic presentation outline & live demo script
 - [docs/VIVA_QUESTIONS.md](docs/VIVA_QUESTIONS.md) — 5th-semester Computer Networks viva Q&A bank
+
+
+---
+
+## 🌐 Live Demo
+
+🚀 **Try the project here:** [Virtual Smart Hydro Alert Network](https://aistudio.google.com/apps/9cd08c0e-b872-4a46-8488-bedbca7d21ea?showPreview=true&showAssistant=true&fullscreenApplet=true)
