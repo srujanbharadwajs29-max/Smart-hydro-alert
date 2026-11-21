@@ -90,7 +90,7 @@ docker stop hydro-mosquitto; docker rm hydro-mosquitto
 
 
 ---
-
 ## 🌐 Live Demo
 
-🚀 **Try the project here:** [Virtual Smart Hydro Alert Network](https://aistudio.google.com/apps/9cd08c0e-b872-4a46-8488-bedbca7d21ea?showPreview=true&showAssistant=true&fullscreenApplet=true)
+🚀 **Try the project here:** 
+[Virtual Smart Hydro Alert Network](smart-hydro-alert.vercel.app)
